@@ -1,7 +1,10 @@
 # Vrinda-s-Store
 
-## Techniques used: Data Cleaning, Data Processing, Data Visualization, Reports and Insights
-## Tool Used: Microsoft Excel
+## Techniques used:
+Data Cleaning, Data Processing, Data Visualization, Reports and Insights
+
+## Tool Used: 
+Microsoft Excel
 
 ## Objective:
 Vrinda store aims to compile an annual sales report for 2022 to gain insights into customer behavior and trends, facilitating strategic growth for increased sales in 2023.
